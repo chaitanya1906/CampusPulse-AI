@@ -12,7 +12,7 @@ I went with a modular Python setup to keep things from getting messy. If you're 
 •	The Intelligence: We’re using Scikit-learn for the predictive side and TextBlob to figure out the "vibe" (sentiment) of student feedback.
 Want to Run It?
 If you've got Python installed, getting this up and running is a three-step process:
-1.	Clone the Repo: git clone https://github.com/yourusername/campus-pulse-ai.git
+1.	Clone the Repo: git clone [https://github.com/yourusername/campus-pulse-ai.git](https://github.com/chaitanya1906/CampusPulse-AI)
 2.	Install the Goods: Pop open your terminal and run pip install pandas scikit-learn textblob.
 3.	Launch: Execute python main.py and you'll see the model start its thing.
 The Methodology (The "Science" Bit)
