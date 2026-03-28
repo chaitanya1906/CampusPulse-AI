@@ -1,0 +1,11 @@
+hour,day_of_week,is_exam_week,occupancy_percent,student_feedback
+8,1,0,15,"Quiet and easy to find a seat."
+10,1,0,45,"Starting to get crowded."
+12,1,0,92,"No seats available, very frustrated!"
+13,2,0,88,"The canteen is packed."
+17,3,1,95,"Exam week is stressful, library is full."
+9,4,0,20,"Great atmosphere for morning study."
+12,5,0,85,"Too loud near the entrance."
+15,2,1,90,"Need more charging points."
+19,4,0,30,"Evening is the best time to work."
+11,3,0,60,"Average crowd, found a spot in 5 minutes."
